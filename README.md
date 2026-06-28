@@ -49,6 +49,8 @@ When I'm not studying DevOps, you'll probably find me exploring new cloud servic
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/aj-abhijeet21/aj-abhijeet21/output/snake.svg" alt="Snake animation" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priya-malewadkar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malewadkarpriya@gmail.com) 
